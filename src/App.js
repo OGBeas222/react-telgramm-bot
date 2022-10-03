@@ -20,7 +20,7 @@ function App() {
     <div className="App">
       <div className="container">
         <h1>hello telegram</h1>
-        <button onClick={onClose()}>Close</button>
+        <button onClick={onClose}>Close</button>
       </div>
     </div>
   );
